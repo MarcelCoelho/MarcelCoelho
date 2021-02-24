@@ -40,7 +40,7 @@ Belo Horizonte, MG
 <h2>Knowlodge</h2>
 
 ```csharp
-  private static string[] _knowledge = new[]
+  pulbic static string[] Knowledge = new[]
     {
       ".NET (Standart / Core) => C# / VB.Net",        
       "WPF",

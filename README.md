@@ -5,7 +5,43 @@ I'm Marcel, from Brazil.
 ```csharp
 /* NET Full Stack Developer */
 ```
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+  
+  [![Github Stats By Marcel Coelho](https://github-readme-stats.vercel.app/api?username=quadrified&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### - Languages and Tools...
+
+<p align="center">
+
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/csharp_dotnet.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20reactnative.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/wpf.svg" alt="vscode" style="vertical-align:top; margin:4px">  
+  
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+
+---
+
+</p>
+
+### - I'm currently...
+
+- Improving my .NETCore skills
+
+- Learning React with NextJs.
+- Learning to develop React Native.
+
+---
+
+</details>
 
 <html>
 <body>

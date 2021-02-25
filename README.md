@@ -18,15 +18,15 @@ I'm Marcel, from Brazil.
 
 <p align="center">
 
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/csharp_dotnet.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20reactnative.svg" alt="react" style="vertical-align:top; margin:4px">
+  
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/csharp_dotnet.svg" alt="c#" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/wpf.svg" alt="vscode" style="vertical-align:top; margin:4px">  
   
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20reactnative.svg" alt="reactnative" style="vertical-align:top; margin:4px">  
 
 ---
 
@@ -73,7 +73,8 @@ Belo Horizonte, MG
 	
 </body>
 </html>
-<h2>Knowlodge</h2>
+
+### - Knowlogies...
 
 ```csharp
   public static string[] Knowledge = new[]
@@ -92,6 +93,6 @@ Belo Horizonte, MG
     };
 ```
 
-<h2>Profiles</h2>
+### - Profiles...
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelsanto/)](https://www.linkedin.com/in/marcelsanto/)   [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcelfcoelho/)](https://www.instagram.com/marcelfcoelho/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1A91DA?style=flat-square&labelColor=1A91DA&logo=twitter&logoColor=white&link=https://twitter.com/marcelfcoelho)](https://twitter.com/marcelfcoelho) [![Rockeseat Badge](https://img.shields.io/badge/-Rocketseat-6C4FBB?style=flat-square&logoColor=white&link=https://app.rocketseat.com.br/me/marcelsanto/)](https://app.rocketseat.com.br/me/marcelsanto/)

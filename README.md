@@ -3,7 +3,7 @@
 I'm Marcel, from Brazil. 
 
 ```csharp
-/* NET Full Stack Developer */
+/* .NET Full Stack Developer */
 ```
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
